@@ -1,0 +1,1 @@
+print("Dumbass alert")
