@@ -30,7 +30,7 @@ SeaLevelRise = the height you want the sea level to rise to
 FilePath = Where you want to read the image from and save the image to
 ## Examples
 Before processing:![image](https://user-images.githubusercontent.com/91225760/142093365-ddf3829f-fe20-4fb1-a7d3-cbd0ac596a2b.png)
-After processing with 1500 foot sea rise: ![image](https://user-images.githubusercontent.com/91225760/142093572-aaa0b160-6c71-411f-bdd8-7c3fa5f89ff4.png)
+After processing with 1000 foot sea rise: ![image](https://user-images.githubusercontent.com/91225760/142093572-aaa0b160-6c71-411f-bdd8-7c3fa5f89ff4.png)
 Sample input:![image](https://user-images.githubusercontent.com/91225760/142093720-68d29716-2729-47d1-a9b0-69f422cd863b.png)
 
 
